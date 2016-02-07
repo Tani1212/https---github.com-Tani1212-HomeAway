@@ -1,0 +1,26 @@
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Tests.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Tests.pdb
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Test Framework.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\WebDriver.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Test Framework.pdb
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\WebDriver.xml
+D:\MVCCODESAMPLES\Test Framework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\MVCCODESAMPLES\Test Framework\Tests\obj\Debug\Tests.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\obj\Debug\Tests.pdb
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Newtonsoft.Json.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\Newtonsoft.Json.xml
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\WebDriver.Support.dll
+D:\MVCCODESAMPLES\Test Framework\Tests\bin\Debug\WebDriver.Support.xml
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\obj\Debug\Tests.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Tests.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Tests.pdb
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Test Framework.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\WebDriver.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\WebDriver.Support.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Newtonsoft.Json.dll
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Test Framework.pdb
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\WebDriver.xml
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\WebDriver.Support.xml
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\bin\Debug\Newtonsoft.Json.xml
+D:\MVCCODESAMPLES\Test Framework\https---github.com-Tani1212-HomeAway.git\Tests\obj\Debug\Tests.pdb
